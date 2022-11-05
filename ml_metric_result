@@ -1,0 +1,3 @@
+adult datafly 1 knn 0.765 0.647
+adult datafly 1 svm 0.795 0.858
+adult datafly 1 rf 0.814 0.644
